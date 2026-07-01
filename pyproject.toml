@@ -1,0 +1,12 @@
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[project]
+authors = [{name = "Tobias Krebs"}]
+name = "quantfin"
+version = "0.7.0"
+description = "Black-Scholes pricing with greeks, NPV and Newton-method IRR."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "Apache-2.0"}
