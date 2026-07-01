@@ -4,7 +4,7 @@ build-backend = "pdm.backend"
 
 [project]
 authors = [{name = "Tobias Krebs"}]
-name = "quantfin"
+name = "quantfin-py"
 version = "0.7.0"
 description = "Black-Scholes pricing with greeks, NPV and Newton-method IRR."
 readme = "README.md"
